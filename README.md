@@ -1,4 +1,4 @@
-### Hi there 👋
+### 응애개발자의 코드모음 👋
 
 <!--
 **ee1030/ee1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
